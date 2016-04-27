@@ -1,0 +1,30 @@
+﻿à faire pour finir le principale du jeu (par priorité):
+
+- Monstres : Faire IA ours avec dégats
+
+- start qui restart bien le jeu, mais continue toujours pas bien fonctionelle. Necessite d'etre revu. Checkpoint ayant les bugs suivant : 
+décor arriere qui disparait d'un checkpoint a l'autre et checkpoint qui fonctionne que une seul fois
+
+- Ajout des sons
+- script disparition canard
+
+- Fin de projet :
+___
+LIMITE LE FEU ou doser ces dégats
+Début d'histoire : script texte, possibilités ?
+___
+- GUI :
+menu de lancement avec crédits 
+credit = musique "je code avec le cul"
+remplacer button option par ya pas d'options +  "Website" + je code avec le cul
+___
+level design
+___
+
+- Parallele (pas les barres) :
+réalisation du site web (à faire en heure d'ISN)
+
+
+NOTE AUX DEVELOPPEURS :
+
+développez(couché)
