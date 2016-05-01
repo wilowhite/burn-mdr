@@ -1,0 +1,31 @@
+﻿à faire pour finir le principale du jeu (par priorité):
+
+
+- Ajout de sons suivants SoundEffectsHelper.Instance.lebonson(); :
+
+son dégats infligé au personnage
+voix burn em all pour l'intro
+musique pour intro
+musique pour le menu d'acueil
+
+
+
+
+- BOUCLAGE DE PROJET : 
+phase de vérification - débug
+doser hp et dégats feu
+level design
+
+Autre : Export Android ?
+
+
+
+
+___
+- Parallele (pas les barres) :
+réalisation du site web (à faire en heure d'ISN)
+
+
+NOTE AUX DEVELOPPEURS :
+
+développez(couché)
