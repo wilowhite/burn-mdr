@@ -1,0 +1,25 @@
+camera size = 5
+pos caméra Z = -10
+
+graphique : 40 pixel = 1m
+
+
+parametre unity :
+Prite 2D
+20 pixel per unit
+filter mode : point
+format 16 bit
+
+
+en 16:9 : 
+bas gauche = X=-8.9 Y=-5
+bas droite = X= 8.9 Y=-5
+haut gauch = X=-8.9 Y= 5
+haut droit = X= 8.9 Y= 5
+
+axe X = 9 mètre
+axe Y = 5 mètre
+
+ground = 0.3 mètre
+herbe/other = 0,2 mètre
+ciel = X=9 Y=7 (m) donc total = X=360 Y=280
