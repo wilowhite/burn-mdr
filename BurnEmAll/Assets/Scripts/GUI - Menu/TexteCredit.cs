@@ -28,12 +28,12 @@ public class TexteCredit : MonoBehaviour {
 		}
 		if (-2 < xpos && xpos< 1) {
 			texte.text = "Sounds effect / Musics:";
-			names.text = "TOUCHAIS Mickael\nMESSE Thibault (bear sound)\n'Drorki' (duck sound)\n\nLENCOU Quentin (Overworld 8bit music)\n'L'hermite moderne' (Je code avec le cul music)";
+			names.text = "TOUCHAIS Mickael\nMESSE Thibault (bear sound)\n'Drorki' (duck sound)\n\nLENCOU Quentin : Overworld 8bit music\n                                Spark Ignition Madness\n                                menu\n'L'hermite moderne' (Je code avec le cul music)";
 
 		}
 		if (1 < xpos && xpos< 4) {
 			texte.text = "Assistants / Helper / Advisors :";
-			names.text = "Flamoure (pyroman assistant)";
+			names.text = "Flamoure (pyroman assistant)\nJonathan & Gaetan (erradikateur dé fote)";
 		}
 		if (4 < xpos && xpos< 8) {
 			texte.text = "Betatesters :";

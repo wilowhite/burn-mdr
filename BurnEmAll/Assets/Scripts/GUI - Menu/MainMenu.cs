@@ -13,9 +13,12 @@ public class MainMenu : MonoBehaviour {
 
 	public GameObject options;
 	public GameObject mainmenu;
+	public GameObject menuSound;
+
 	// Use this for initializationj
 
 	void Start (){
+		menuSound.SetActive (true);
 	}
 
 	// Update is called once per frame
@@ -58,6 +61,7 @@ public class MainMenu : MonoBehaviour {
 	}
 
 	public void Option(){
+		menuSound.SetActive (false);
 		options.SetActive(true);
 		mainmenu.SetActive(false);
 	}

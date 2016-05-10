@@ -107,11 +107,16 @@
 			      - Debut de recherche sur la façon de gérer les sons, reste à enregistrer
 			      - Ajout de la musique du jeu. (réalisé par un ami)
 
-30/04/2016 V1.2.1 - Groupe:   - L'IA de tout les ennemies est enfin fini. 
+30/04/2016 V1.2.1 - Groupe :  - L'IA de tout les ennemies est enfin fini. 
                               - Ajout de la plupart des sons
                               - Ajout d'un script qui freeze la position des ennemies tant qu'il ne sont pas à une certaine distance du personnage
                               - Ajout du menu Option
                               - Ajout du menu Credit avec déplacement du personnage qui fait office de voire les différents crédits.
-04/05/2016 V1.2.2 - Antoine:  - Ajout de drop de régen de vie aléatoirement sur les monstres.
+04/05/2016 V1.2.2 - Antoine : - Ajout de drop de régen de vie aléatoirement sur les monstres.
                      et       - Ajout d'un géricane d'essence en guise d'item régen de vie
-                    Mickael:  - Modification du script de regen de vie d'antoine pour faire en sorte que les géricane puisse tomber (gravité) mais ne traversent pas le sol.
+                    Mickael   - Modification du script de regen de vie d'antoine pour faire en sorte que les géricane puisse tomber (gravité) mais ne traversent pas le sol.
+
+07/05/2016 V1.2.3 - Thibault: - Ajout d'un son + script pour l'activer lors de l'intro
+                     et       - Ajout d'une nouvelle plateform
+                    Mickael   - Debut du level design
+                              - Texte intro et bouttons pour android prennent désormais en compte la taille de l'écran.

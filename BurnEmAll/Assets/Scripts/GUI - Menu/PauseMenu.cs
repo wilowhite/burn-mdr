@@ -14,6 +14,7 @@ public class PauseMenu : MonoBehaviour {
 	public GameObject healthbar;
 	public GameObject health;
 	public GameObject pause;
+    public GameObject music;
 
 	void start ()
 	{
@@ -65,6 +66,7 @@ public class PauseMenu : MonoBehaviour {
 		level.SetActive(false);
 		health.SetActive(false);	
 		healthbar.SetActive(false);
+        music.SetActive(false);
 
 	}
 	public void Return()
@@ -74,8 +76,10 @@ public class PauseMenu : MonoBehaviour {
 		level.SetActive(true);
 		health.SetActive(true);	
 		healthbar.SetActive(true);
-	}
-	public void Website(){
+        music.SetActive(true);
+
+    }
+    public void Website(){
 
 		Application.OpenURL ("http://yanato.github.io/project/");
 	}
