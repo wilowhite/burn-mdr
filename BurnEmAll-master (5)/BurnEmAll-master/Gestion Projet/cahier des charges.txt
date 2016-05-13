@@ -1,0 +1,19 @@
+Semaine -1 : Début du projet, mise en accord du thème du jeu, du type du jeu. 
+
+Semaine 0 : On a présenté notre projet au professeur, il a donné son approbation sur le projet mais nous a mis en garde
+sur le temps restant.
+On se répartit donc les tâches pour gagner en efficacité  significativement.
+Répartition des différentes taches :
+Différents algorithmes et assets (dessins)
+
+Semaine 1 : Impossible de télécharger unity sur les postes du lycée, une des solutions qui nous a été proposé
+est d'apporter un ordinateur personnel portable. On a tout de même continuer graphiquement( on a trouvé des assets intéressant
+pour notre jeu). Le professeur nous a mis en garde sur le temps restant pour réaliser le projet, sachant que
+l'on n'a pas pu avancer durant les 2h de ISN (niveau codage) et de changer de projet si vraiment le temps manquerait.
+On souhaite tout de même garder le projet en prenant compte du temps restant.
+
+Semaine 2: On a bien avancé, les bases ont été réalisé(déplacement du joueur,décor,menu partiel, plateforme).
+On peut maintenant se répartir les tâches de façon plus efficace et se tenir à jour sur l'avancement du projet sur Github.
+
+Semaine 3: N'ayant qu'une heure d'ISN et Antoine n'étant pas la, nous n'avons pas beaucoup avancé. Nous avons seulement fait des recherches sur le Site web accompagnant le projet et fait des recherches sur les choses que nous devons ajouter à notre projet Unity. Pour ce qui est de l'avancement du projet hors cours d'ISN, voir "ChangeLog"
+
