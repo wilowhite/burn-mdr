@@ -1,0 +1,18 @@
+﻿à faire pour finir le principale du jeu (par priorité):
+
+
+gerer les pdvs du perso et ceux des ennemies, remettre les canard au bon endroit + test le level.
+
+Autre : Export Android ?
+
+
+
+
+___
+- Parallele (pas les barres) :
+réalisation du site web (à faire en heure d'ISN)
+
+
+NOTE AUX DEVELOPPEURS :
+
+développez(couché)

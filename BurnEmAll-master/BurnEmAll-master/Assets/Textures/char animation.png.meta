@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 902196e08b9aa8540b9e283bb1c3ec43
+timeCreated: 1459865933
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walk1
+    21300002: walk2
+    21300004: walk3
+    21300006: arm
+    21300008: walk4
+    21300010: walk5
+    21300012: walk6
+    21300014: walk7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: walk1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 52
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 52
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 52
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: arm
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 72
+        width: 4
+        height: 9
+      alignment: 9
+      pivot: {x: 0.2680359, y: 0.7963994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
